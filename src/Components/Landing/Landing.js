@@ -6,8 +6,10 @@ const Landing = () => {
     return(
         <section className='landing'>
            <div className='mainText'>
-               <h1>Hi!</h1> 
-               <h1>I'm Pablo, <span className='title'>I'm a Full Stack Web Developer</span></h1>
+               <div><h1>Hi!</h1>
+               <h1><span className='bold'>I'm</span> Pablo,
+               <span className='title'>I'm a Full Stack Web
+               <span className='bold'>Developer</span></span></h1></div>
            </div>
         </section>
     )

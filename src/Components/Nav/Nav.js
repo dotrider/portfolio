@@ -10,6 +10,7 @@ const Nav = () => {
             <Link to="/" className="item"><span className='menu'>Landing</span></Link>
             <Link to="/projects" className="item"><span className='menu'>Projects</span></Link>
             <Link to="/about" className="item"><span className='menu'>About</span></Link>
+            <a hfref='/test'>test</a>
             </nav>
             </section>
     )
