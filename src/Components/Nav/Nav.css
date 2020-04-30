@@ -11,14 +11,17 @@
 }
 
 #nav {     
-    min-width: 30vw;
+    min-width: 25vw;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     padding: 25px;
+    align-items: flex-end;
+ 
 }
 
 
 .menu {
     color: white;
     display: inline-block;
+    margin-left: 15px;
 }

@@ -1,11 +1,18 @@
 .landing {
     background-color: #161616;
-    min-height: 100vh;
-    font-size: 5rem;
+    /* min-height: 100vh; */
+    font-size: 5.7rem;
+    text-transform: uppercase;
 }
 
 .mainText {
-    width: 80vw;
+    max-width: 800px;
+    font-family: 'Lato', sans-serif;
+    margin-top: 50px;
+    letter-spacing: .2rem;
+    text-align: left;
+    padding-left: 50px;
+    line-height: 1.1;
 }
 
 .title {
